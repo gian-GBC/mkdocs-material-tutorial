@@ -3,7 +3,9 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
+    - navigation.path
     - toc.integrate
     - navigation.top
     - search.suggest
@@ -11,6 +13,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.tooltips
   language: en
   palette:
     - scheme: default
@@ -30,15 +33,32 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/gian-GBC/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/willettjames/
 
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets:
+        auto_append:
+        - includes/abbreviations.md
   - admonition
+  - pymdownx.arithmatex:
+      generic: true
   - footnotes
-  - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - abbr
+
 
 copyright: |
-  &copy; 2024 Gian GBC
+  &copy; 2024 The Teaching & Learning Exchange
+
+watch:
+  - includes

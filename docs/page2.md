@@ -15,3 +15,14 @@
     Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
     Nam vulputate tincidunt fringilla.
     Nullam dignissim ultrices urna non auctor.
+
+## Light and dark mode images
+
+![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa#only-light)
+![Image title](https://dummyimage.com/600x400/21222c/d5d7e2#only-dark)
+
+# Glossary
+
+The HTML specification is maintained by the W3C.
+
+Welcome to the TLX.
