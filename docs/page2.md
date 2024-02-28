@@ -21,8 +21,16 @@
 ![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa#only-light)
 ![Image title](https://dummyimage.com/600x400/21222c/d5d7e2#only-dark)
 
-# Glossary
+## Glossary
 
 The HTML specification is maintained by the W3C.
 
 Welcome to the TLX.
+
+## Keyboard Keys
+
+++ctrl+alt+del++
+
+Use ++ctrl+alt+del++ (++cmd++ on Mac)
+
+++cmd+lbutton++

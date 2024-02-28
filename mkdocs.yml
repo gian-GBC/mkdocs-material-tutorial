@@ -1,4 +1,16 @@
 site_name: Brightspace Help
+
+nav:
+  - Home: 'index.md'
+  - 'Testing':
+    - 'Features': 'page2.md'
+    - 'Course Admin Tools': 'page3.md'
+  - Customization:
+    - 'Introduction': 'customizations.md'
+    - "Profile": "profile.md"
+    - "Notifications": "notifications.md"
+    - "Course Banner": "course-banner.md"
+
 theme:
   name: material
   features:
@@ -6,7 +18,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.path
-    - toc.integrate
+    # - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
@@ -55,6 +67,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - abbr
+  - pymdownx.keys
 
 
 copyright: |
