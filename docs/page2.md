@@ -26,6 +26,9 @@
 The HTML specification is maintained by the W3C.
 
 Welcome to the TLX.
+Make use of OER.
+
+Make sure to fill in your SWF.
 
 ## Keyboard Keys
 

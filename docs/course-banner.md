@@ -19,3 +19,7 @@ https://www.youtube.com/watch?v=2kSl0xkq2lM
 [Insert H5P in Brightspace](https://georgebrowncollege.h5p.com/content/1291904269107928248)
 
 [![The Turing Lectures: The future of generative AI](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2kSl0xkq2lM)](https://www.youtube.com/watch?v=2kSl0xkq2lM)
+
+Video embedded with the [Markdown video too](https://markdown-videos.jorgenkh.no/).
+
+43.67276361029083, -79.39557736747406

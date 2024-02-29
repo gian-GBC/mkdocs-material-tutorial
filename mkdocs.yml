@@ -10,6 +10,8 @@ nav:
     - "Profile": "profile.md"
     - "Notifications": "notifications.md"
     - "Course Banner": "course-banner.md"
+  # - "Communications":
+
 
 theme:
   name: material
