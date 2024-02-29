@@ -10,11 +10,13 @@ nav:
     - "Profile": "profile.md"
     - "Notifications": "notifications.md"
     - "Course Banner": "course-banner.md"
-  - "Communications":
+  - Communications:
     - 'Email': 'email.md'
     - 'Classlist': 'classlist.md'
     - 'FAQ': 'faq.md'
     - 'Calendar': 'calendar.md'
+  - Grade Center:
+    - 'Reset Quiz Attempt': 'reset-quiz-attempt.md'
 
 
 theme:
@@ -70,6 +72,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg

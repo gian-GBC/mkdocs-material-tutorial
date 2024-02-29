@@ -3,3 +3,5 @@
 *[TLX]: Teaching & Learning Exchange
 *[OER]: Open Educational Resources
 *[SWF]: Standard Workload Form
+*[CLC]: Casa Loma Campus
+*[WIL] = Work Integrated Learning

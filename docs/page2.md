@@ -37,3 +37,7 @@ Make sure to fill in your SWF.
 Use ++ctrl+alt+del++ (++cmd++ on Mac)
 
 ++cmd+lbutton++
+
+## Embedding external files
+
+Gian is an --8<-- '.job-title'
