@@ -10,10 +10,15 @@ nav:
     - "Profile": "profile.md"
     - "Notifications": "notifications.md"
     - "Course Banner": "course-banner.md"
-  # - "Communications":
+  - "Communications":
+    - 'Email': 'email.md'
+    - 'Classlist': 'classlist.md'
+    - 'FAQ': 'faq.md'
+    - 'Calendar': 'calendar.md'
 
 
 theme:
+  logo: assets/TLX_logo_400px.png
   name: material
   features:
     - navigation.tabs
