@@ -30,6 +30,8 @@ Make use of OER.
 
 Make sure to fill in your SWF.
 
+I'm part of the CADIT department.
+
 ## Keyboard Keys
 
 ++ctrl+alt+del++

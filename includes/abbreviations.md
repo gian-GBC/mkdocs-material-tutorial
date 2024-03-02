@@ -4,4 +4,5 @@
 *[OER]: Open Educational Resources
 *[SWF]: Standard Workload Form
 *[CLC]: Casa Loma Campus
-*[WIL] = Work Integrated Learning
+*[WIL]: Work Integrated Learning
+*[CADIT]: Center for Art, Design, and Information Technology

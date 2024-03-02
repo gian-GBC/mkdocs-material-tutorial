@@ -16,7 +16,14 @@ nav:
     - 'FAQ': 'faq.md'
     - 'Calendar': 'calendar.md'
   - Grade Center:
-    - 'Reset Quiz Attempt': 'reset-quiz-attempt.md'
+    - Grades:
+      - 'Reset Quiz Attempt': 'reset-quiz-attempt.md'
+    - Modifying:
+      - 'Update Grades': 'update-grades.md'
+      - 'Academic Integrity': 'edtech-academic-integrity.md'
+  - 'MkDocs':
+    - 'Grids': 'grids.md'
+    - 'Tables': 'tables.md'
 
 
 theme:
@@ -47,7 +54,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: blue
+      primary: dark blue
       accent: lime
 
 extra:
@@ -78,7 +85,11 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - abbr
   - pymdownx.keys
+  - tables
 
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
 
 copyright: |
   &copy; 2024 The Teaching & Learning Exchange
