@@ -2,23 +2,26 @@ site_name: Brightspace Help
 
 nav:
   - Home: 'index.md'
+  - 'Admin':
+    - 'Course Dates': 'course-dates.md'
+    - 'Course Availability': 'availability.md'
   - 'Testing':
     - 'Features': 'page2.md'
     - 'Course Admin Tools': 'page3.md'
-  - Customization:
+  - 'Customization':
     - 'Introduction': 'customizations.md'
     - "Profile": "profile.md"
     - "Notifications": "notifications.md"
     - "Course Banner": "course-banner.md"
-  - Communications:
+  - 'Communications':
     - 'Email': 'email.md'
     - 'Classlist': 'classlist.md'
     - 'FAQ': 'faq.md'
     - 'Calendar': 'calendar.md'
-  - Grade Center:
-    - Grades:
+  - 'Grade Center':
+    - 'Grades':
       - 'Reset Quiz Attempt': 'reset-quiz-attempt.md'
-    - Modifying:
+    - 'Modifying':
       - 'Update Grades': 'update-grades.md'
       - 'Academic Integrity': 'edtech-academic-integrity.md'
   - 'MkDocs':
@@ -34,7 +37,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.path
-    # - toc.integrate
+    - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
