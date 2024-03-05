@@ -4,4 +4,4 @@
 1. Select Course Offering Information
 1. Add new Start and End Dates
 
-For more information check the [website (opens in new window) :octicons-link-external-16:](#)
+For more information check the [website (opens in new window) :octicons-link-external-24:](#)
